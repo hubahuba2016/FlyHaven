@@ -1,0 +1,9 @@
+GNU nano 5.4                        gameconcept.txt
+flyhaven
+upgrade:
+-flappable wings
+-thruster
+feature:
+-particle
+-center of mass
+-gravity
